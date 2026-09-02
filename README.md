@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, I'm Sergio Betancourt 👋</h1>
 
 <p align="center">
-  CS student at Texas A&ampM;
+  CS student at Texas A&ampM
 </p>
 
 <p align="center">
