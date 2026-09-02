@@ -15,7 +15,6 @@
 ## About me
 
 - 🎓 B.S. Computer Science, Texas A&amp;M University — May 2028
-- 🏀 Currently building a **WNBA in-play prediction system**: live ESPN game state + Polymarket order-book streams → PostgreSQL → per-checkpoint win-probability models, evaluated prospectively against the market. Paper-traded only.
 - 🔎 Looking for **Summer 2027 software engineering internships**
 
 ## Tech stack
