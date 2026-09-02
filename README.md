@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, I'm Sergio Betancourt 👋</h1>
 
 <p align="center">
-  CS student at Texas A&amp;M building data pipelines, prediction models, and bare-metal embedded systems.
+  CS student at Texas A&amp;
 </p>
 
 <p align="center">
