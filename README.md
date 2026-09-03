@@ -57,7 +57,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**WNBA In-Play Prediction System**](https://github.com/Xilithh/wnba-model) | Streams Polymarket order books over WebSocket and polls ESPN game state into PostgreSQL behind fail-closed freshness guards. Per-checkpoint logistic-regression win-probability models, walk-forward + paired-bootstrap evaluation, pre-registered promotion gates, gated reproducible releases to a Linux VPS. Paper bets only. | Python, scikit-learn, PostgreSQL, WebSockets, GitHub Actions |
+| [**WNBA In-Play Prediction System**](https://github.com/Xilithh/wnba-inplay-model) | Streams Polymarket order books over WebSocket and polls ESPN game state into PostgreSQL behind fail-closed freshness guards. Per-checkpoint logistic-regression win-probability models, walk-forward + paired-bootstrap evaluation, pre-registered promotion gates, gated reproducible releases to a Linux VPS. Paper bets only. | Python, scikit-learn, PostgreSQL, WebSockets, GitHub Actions |
 | [**Embedded Control System**](https://github.com/Xilithh/Embedded-Control-System) | Bare-metal ARM assembly on an STM32F401RE: ADC-sampled potentiometer → live power percentage on a 16×2 HD44780 LCD, PWM LED brightness, four-level LED bar graph, mode switch, USART2 serial output. | ARM Assembly, STM32, Keil MDK |
 | [**CodeAIde**](https://github.com/Arkaeyuh/codeAIde) | Full-stack coding-practice platform that analyzes submissions and returns feedback on time complexity and optimization opportunities. | Next.js, React, Tailwind, Prisma, PostgreSQL, OpenAI API |
 
