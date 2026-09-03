@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, I'm Sergio Betancourt 👋</h1>
 
 <p align="center">
-  CS student at Texas A&ampM
+  CS student at Texas A&amp;M
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 
 - 🎓 B.S. Computer Science, Texas A&amp;M University — May 2028
 - 🔎 Looking for **Summer 2027 software engineering internships**
+- 🏆 HackRice 14 — Beginner Track Winner
 
 ## Tech stack
 
@@ -60,20 +61,3 @@
 | [**WNBA In-Play Prediction System**](https://github.com/Xilithh/wnba-inplay-model) | Streams Polymarket order books over WebSocket and polls ESPN game state into PostgreSQL behind fail-closed freshness guards. Per-checkpoint logistic-regression win-probability models, walk-forward + paired-bootstrap evaluation, pre-registered promotion gates, gated reproducible releases to a Linux VPS. Paper bets only. | Python, scikit-learn, PostgreSQL, WebSockets, GitHub Actions |
 | [**Embedded Control System**](https://github.com/Xilithh/Embedded-Control-System) | Bare-metal ARM assembly on an STM32F401RE: ADC-sampled potentiometer → live power percentage on a 16×2 HD44780 LCD, PWM LED brightness, four-level LED bar graph, mode switch, USART2 serial output. | ARM Assembly, STM32, Keil MDK |
 | [**CodeAIde**](https://github.com/Arkaeyuh/codeAIde) | Full-stack coding-practice platform that analyzes submissions and returns feedback on time complexity and optimization opportunities. | Next.js, React, Tailwind, Prisma, PostgreSQL, OpenAI API |
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xilithh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xilithh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xilithh&theme=tokyonight&hide_border=true" alt="Contribution streak">
-</p>
-
----
-
-<p align="center">
-  🏆 HackRice 14 — Beginner Track Winner
-</p>
